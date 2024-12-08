@@ -6,5 +6,4 @@
 
 > 一些文章和笔记
 
-[GitHub](https://github.com/zhenyu-jia/blog)
 [开始](README.md)
